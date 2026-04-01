@@ -53,9 +53,19 @@ Je suis actuellement étudiant en filière **IIR (Informatique et Réseaux)** à
 
 Voici l'aperçu dynamique de mon activité sur cette plateforme. Cette carte contient des micro-animations fluides.
 
+---
+
+## 📊 Statistiques GitHub (Anas's GitHub Stats)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[METS_TON_PSEUDO_GITHUB_ICI]&show_icons=true&theme=vivid&hide_border=true&title_color=FFFF00&icon_color=ADFF2F&text_color=ADFF2F&bg_color=111111" alt="Anas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasIch&show_icons=true&theme=vivid&hide_border=false&title_color=79ffad&icon_color=79ffad&text_color=ffffff&bg_color=111111&include_all_commits=true&count_private=true" alt="Anas's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasIch&layout=compact&theme=vivid&hide_border=false&title_color=79ffad&text_color=ffffff&bg_color=111111" alt="Top Langages" />
+</p>
+
+---
 
 ---
 
@@ -71,3 +81,5 @@ N'hésitez pas à me contacter pour discuter de projets, de tech ou d'opportunit
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+
