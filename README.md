@@ -49,21 +49,20 @@ Je suis actuellement étudiant en filière **IIR (Informatique et Réseaux)** à
 
 ---
 
-## 📊 Statistiques GitHub (Anas's GitHub Stats)
-
-Voici l'aperçu dynamique de mon activité sur cette plateforme. Cette carte contient des micro-animations fluides.
 
 ---
 
 ## 📊 Statistiques GitHub (Anas's GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasIch&show_icons=true&theme=vivid&hide_border=false&title_color=79ffad&icon_color=79ffad&text_color=ffffff&bg_color=111111&include_all_commits=true&count_private=true" alt="Anas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasIch&show_icons=true&theme=vivid&hide_border=false&title_color=79ffad&icon_color=79ffad&text_color=ffffff&bg_color=111111&include_all_commits=true&count_private=true" alt="Statistiques de AnasIch" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasIch&layout=compact&theme=vivid&hide_border=false&title_color=79ffad&text_color=ffffff&bg_color=111111" alt="Langages les plus utilisés par AnasIch" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasIch&layout=compact&theme=vivid&hide_border=false&title_color=79ffad&text_color=ffffff&bg_color=111111" alt="Top Langages" />
-</p>
+---
 
 ---
 
