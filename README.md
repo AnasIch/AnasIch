@@ -50,11 +50,7 @@ Je suis actuellement étudiant en filière **IIR (Informatique et Réseaux)** à
 ---
 
 
----
 
----
-
----
 
 ## 📊 Statistiques GitHub (Anas's GitHub Stats)
 
@@ -65,13 +61,7 @@ Je suis actuellement étudiant en filière **IIR (Informatique et Réseaux)** à
 </p>
 
 ---
----
 
----
-
----
-
----
 
 ## 📫 Me contacter
 
